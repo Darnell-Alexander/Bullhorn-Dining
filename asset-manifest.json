@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Bullhorn-Dining/static/css/main.4ca53935.css",
+    "main.css": "/Bullhorn-Dining/static/css/main.40bfb7c5.css",
     "main.js": "/Bullhorn-Dining/static/js/main.93a47020.js",
     "static/js/787.23170c61.chunk.js": "/Bullhorn-Dining/static/js/787.23170c61.chunk.js",
     "static/media/banner.mp4": "/Bullhorn-Dining/static/media/banner.f3102d3d1072ac828e46.mp4",
     "static/media/vertical1.jpg": "/Bullhorn-Dining/static/media/vertical1.f746b96b065506ac4f47.jpg",
     "static/media/vertical2.jpg": "/Bullhorn-Dining/static/media/vertical2.ce7f38a560ac24f6e576.jpg",
     "index.html": "/Bullhorn-Dining/index.html",
-    "main.4ca53935.css.map": "/Bullhorn-Dining/static/css/main.4ca53935.css.map",
+    "main.40bfb7c5.css.map": "/Bullhorn-Dining/static/css/main.40bfb7c5.css.map",
     "main.93a47020.js.map": "/Bullhorn-Dining/static/js/main.93a47020.js.map",
     "787.23170c61.chunk.js.map": "/Bullhorn-Dining/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ca53935.css",
+    "static/css/main.40bfb7c5.css",
     "static/js/main.93a47020.js"
   ]
 }
